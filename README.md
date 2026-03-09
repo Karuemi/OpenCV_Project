@@ -3,7 +3,7 @@ A C++ application made to demonstrate computer vision techniques using **OpenCV 
 
 ## Showcase
 <img width="1454" height="1030" alt="obraz" src="https://github.com/user-attachments/assets/8ea11ce7-f7eb-4b0d-8e44-d92f0efb8de2" />
-<video src="https://github.com/user-attachments/assets/7c4651c7-eb72-4a5e-9e97-b0b7536f2521" autoplay loop muted playsinline></video>
+<img width="1233" height="503" alt="obraz" src="https://github.com/user-attachments/assets/35c3b549-fde5-442e-b193-02c88424b170" />
 
 ## Prerequisites
 This project is made for **Windows** environment.
